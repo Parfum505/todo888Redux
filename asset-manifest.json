@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae02513a.css",
-    "main.js": "/static/js/main.a49ef246.js",
-    "static/js/688.b373317c.chunk.js": "/static/js/688.b373317c.chunk.js",
-    "static/js/74.fd65b9a3.chunk.js": "/static/js/74.fd65b9a3.chunk.js",
-    "static/js/172.24c81831.chunk.js": "/static/js/172.24c81831.chunk.js",
-    "index.html": "/index.html",
-    "main.ae02513a.css.map": "/static/css/main.ae02513a.css.map",
-    "main.a49ef246.js.map": "/static/js/main.a49ef246.js.map",
-    "688.b373317c.chunk.js.map": "/static/js/688.b373317c.chunk.js.map",
-    "74.fd65b9a3.chunk.js.map": "/static/js/74.fd65b9a3.chunk.js.map",
-    "172.24c81831.chunk.js.map": "/static/js/172.24c81831.chunk.js.map"
+    "main.css": "/todo888Redux/static/css/main.ae02513a.css",
+    "main.js": "/todo888Redux/static/js/main.6127dafd.js",
+    "static/js/688.b373317c.chunk.js": "/todo888Redux/static/js/688.b373317c.chunk.js",
+    "static/js/74.fd65b9a3.chunk.js": "/todo888Redux/static/js/74.fd65b9a3.chunk.js",
+    "static/js/172.24c81831.chunk.js": "/todo888Redux/static/js/172.24c81831.chunk.js",
+    "index.html": "/todo888Redux/index.html",
+    "main.ae02513a.css.map": "/todo888Redux/static/css/main.ae02513a.css.map",
+    "main.6127dafd.js.map": "/todo888Redux/static/js/main.6127dafd.js.map",
+    "688.b373317c.chunk.js.map": "/todo888Redux/static/js/688.b373317c.chunk.js.map",
+    "74.fd65b9a3.chunk.js.map": "/todo888Redux/static/js/74.fd65b9a3.chunk.js.map",
+    "172.24c81831.chunk.js.map": "/todo888Redux/static/js/172.24c81831.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae02513a.css",
-    "static/js/main.a49ef246.js"
+    "static/js/main.6127dafd.js"
   ]
 }
